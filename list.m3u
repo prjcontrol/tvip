@@ -11,7 +11,7 @@ http://213.13.16.138/shls/LIVE%24TVI_HD/index.m3u8?device=TVOS_Live&start=LIVE&e
 #EXTINF:0, SIC Notícias
 http://213.13.16.138/shls/LIVE%24SIC_Noticias_HD/index.m3u8?device=TVOS_Live&end=END
 #EXTINF:0, RTP3
-http://213.13.16.138/shls/LIVE%24RTP_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=-1
+http://213.13.16.138/shls/LIVE%24RTP_3_HD/index.m3u8
 #EXTINF:0, CNN Portugal
 http://213.13.16.138/shls/LIVE%24TVI24_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, CMTV

@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-START:TIME-OFFSET=-1
 #EXTINF:0, Channel 4
 http://92.114.85.77:8000/play/a0b9

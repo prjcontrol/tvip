@@ -97,6 +97,8 @@ http://92.114.85.77:8000/play/a02v
 http://92.114.85.77:8000/play/a004
 #EXTINF:-1,Channel 4 South & East +1
 http://92.114.85.77:8000/play/a02t
+#EXTINF:-1,4seven
+http://92.114.85.80:8000/play/a01a
 #EXTINF:-1,Channel 5 HD
 http://92.114.85.80:8000/play/a01n
 #EXTINF:-1,Channel 5+1

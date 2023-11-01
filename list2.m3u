@@ -1,18 +1,4 @@
 #EXTM3U
 #EXT-X-START:TIME-OFFSET=-1
-#EXTINF:0, BBC One
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:0, BBC Two
-https://helpfulpost.net/bbctwo/index.m3u8
-#EXTINF:0, ITV 1
-http://92.114.85.81:8000/play/a00y/index.m3u8
-#EXTINF:0, UTV
-http://92.114.85.81:8000/play/a04s/index.m3u8
 #EXTINF:0, Channel 4
 http://92.114.85.77:8000/play/a0b9
-#EXTINF:0, S4C
-https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:0, Channel 5 
-https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8
-#EXTINF:0, ITV 2
-http://92.114.85.77:8000/play/a041

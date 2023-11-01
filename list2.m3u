@@ -48,7 +48,7 @@ http://92.114.85.81:8000/play/a03z/index.m3u8
 http://92.114.85.81:8000/play/a01a/index.m3u8
 #EXTINF:0 TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:0 BBC Three Ⓖ
+#EXTINF:0 BBC Three 
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0 W 
 http://92.114.85.81:8000/play/a03x/index.m3u8
@@ -90,7 +90,7 @@ http://92.114.85.80:8000/play/a03s
 http://92.114.85.80:8000/play/a01a
 #EXTINF:0 Great! TV 
 http://92.114.85.81:8000/play/a00q/index.m3u8
-#EXTINF:0 Ideal World Ⓨ
+#EXTINF:0 Ideal World 
 https://www.youtube.com/@IdealWorldTV/live
 #EXTINF:0 Great! Christmas 
 http://92.114.85.79:8000/play/a06i
@@ -124,9 +124,9 @@ http://92.114.85.80:8000/play/a03r
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 Create & Craft
 https://live-hochanda.simplestreamcdn.com/live2/hochanda/bitrate1.isml/live.m3u8
-#EXTINF:0 CBBC Ⓖ
+#EXTINF:0 CBBC 
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:0 CBeebies Ⓖ
+#EXTINF:0 CBeebies 
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0 Pop 
 http://92.114.85.81:8000/play/a00j/index.m3u8
@@ -136,7 +136,7 @@ http://92.114.85.81:8000/play/a00i/index.m3u8
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF:0 BBC News
 http://92.114.85.81:8000/play/a00a/index.m3u8
-#EXTINF:0 BBC Parliament  Ⓖ
+#EXTINF:0 BBC Parliament  
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
 #EXTINF:0 Sky News
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
@@ -150,13 +150,13 @@ https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_
 http://92.114.85.79:8000/play/a0bb
 #EXTINF:0 SportyStuff TV
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
-#EXTINF:0 4Music Ⓖ
+#EXTINF:0 4Music 
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
-#EXTINF:0 The Box Ⓖ
+#EXTINF:0 The Box 
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/
-#EXTINF:0 KISS Ⓖ
+#EXTINF:0 KISS 
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
-#EXTINF:0 Magic Ⓖ
+#EXTINF:0 Magic 
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fmagic%2F&spotxc1=195996&spotxc2=190878
 #EXTINF:0 Kerrang!
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/

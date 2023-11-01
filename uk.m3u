@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,4Music
 http://92.114.85.77:8000/play/a05t
-#EXTINF:-1,Ahlulbayt TV
-http://92.114.85.77:8000/play/a0ag
 #EXTINF:-1,Animal Plnt+1
 http://92.114.85.77:8000/play/a0bj
 #EXTINF:-1,BBC Four HD
@@ -17,86 +15,18 @@ http://92.114.85.77:8000/play/a08m
 http://92.114.85.77:8000/play/a08l
 #EXTINF:-1,BBC One Lon HD
 http://92.114.85.77:8000/play/a08h
-#EXTINF:-1,BBC One NE HD
-http://92.114.85.77:8000/play/a086
-#EXTINF:-1,BBC One NI HD
-http://92.114.85.77:8000/play/a08w
-#EXTINF:-1,BBC One NW HD
-http://92.114.85.77:8000/play/a088
-#EXTINF:-1,BBC One North East and Cumbria HD NEW
-http://92.114.85.77:8000/play/a073
-#EXTINF:-1,BBC One SE HD
-http://92.114.85.77:8000/play/a08q
-#EXTINF:-1,BBC One SW HD
-http://92.114.85.77:8000/play/a06j
-#EXTINF:-1,BBC One ScotHD
-http://92.114.85.77:8000/play/a03d
-#EXTINF:-1,BBC One Sth HD
-http://92.114.85.77:8000/play/a07a
-#EXTINF:-1,BBC One WM HD
-http://92.114.85.77:8000/play/a06e
-#EXTINF:-1,BBC One Wal HD
-http://92.114.85.77:8000/play/a03e
-#EXTINF:-1,BBC One Wst HD
-http://92.114.85.77:8000/play/a06h
-#EXTINF:-1,BBC One Y&L HD
-http://92.114.85.77:8000/play/a06s
-#EXTINF:-1,BBC One Yks HD
-http://92.114.85.77:8000/play/a0bl
-#EXTINF:-1,BBC Parliament NEW
-http://92.114.85.77:8000/play/a072
 #EXTINF:-1,BBC RB 1 HD
 http://92.114.85.77:8000/play/a06g
 #EXTINF:-1,BBC Three HD
 http://92.114.85.77:8000/play/a05p
 #EXTINF:-1,BBC Two HD
 http://92.114.85.77:8000/play/a08r
-#EXTINF:-1,BBC Two NI HD
-http://92.114.85.77:8000/play/a089
-#EXTINF:-1,BBC Two NI HD
-http://92.114.85.77:8000/play/a087
-#EXTINF:-1,BBC Two Northern Ireland HD NEW
-http://92.114.85.77:8000/play/a074
-#EXTINF:-1,BBC Two Wal HD
-http://92.114.85.77:8000/play/a08i
-#EXTINF:-1,BBC Two Wal HD
-http://92.114.85.77:8000/play/a06l
-#EXTINF:-1,BBC Two Wal HD
-http://92.114.85.77:8000/play/a067
-#EXTINF:-1,BBCScotlandHD
-http://92.114.85.77:8000/play/a06i
-#EXTINF:-1,BLAZE
-http://92.114.85.77:8000/play/a0ak
-#EXTINF:-1,CBBC HD
-http://92.114.85.77:8000/play/a01u
-#EXTINF:-1,CBeebies HD
-http://92.114.85.77:8000/play/a069
 #EXTINF:-1,CNBC HD
 http://92.114.85.77:8000/play/a0b6
-#EXTINF:-1,Channel 4
-http://92.114.85.77:8000/play/a09t
 #EXTINF:-1,Channel 4 HD
 http://92.114.85.77:8000/play/a0b9
-#EXTINF:-1,Channel 4 London
-http://92.114.85.77:8000/play/a003
 #EXTINF:-1,Channel 4 London +1
 http://92.114.85.77:8000/play/a02s
-#EXTINF:-1,Channel 4 Midlands
-http://92.114.85.77:8000/play/a005
-#EXTINF:-1,Channel 4 North
-http://92.114.85.77:8000/play/a006
-#EXTINF:-1,Channel 4 North +1
-http://92.114.85.77:8000/play/a02u
-#EXTINF:-1,Channel 4 Northern Ireland
-http://92.114.85.77:8000/play/a02w
-#EXTINF:-1,Channel 4 Scotland
-http://92.114.85.77:8000/play/a007
-#EXTINF:-1,Channel 4 Scotland +1
-http://92.114.85.77:8000/play/a02v
-#EXTINF:-1,Channel 4 South & East
-http://92.114.85.77:8000/play/a004
-#EXTINF:-1,Channel 4 South & East +1
-http://92.114.85.77:8000/play/a02t
 #EXTINF:-1,DMAX
 http://92.114.85.77:8000/play/a0a1
 #EXTINF:-1,Dave
@@ -213,51 +143,3 @@ http://92.114.85.77:8000/play/a099
 http://92.114.85.77:8000/play/a05z
 #EXTINF:-1,ITV4+1
 http://92.114.85.77:8000/play/a09j
-#EXTINF:-1,ITVBe
-http://92.114.85.77:8000/play/a09h
-#EXTINF:-1,Inspiration TV
-http://92.114.85.77:8000/play/a0am
-#EXTINF:-1,Inspiration TV
-http://92.114.85.77:8000/play/a04u
-#EXTINF:-1,More4
-http://92.114.85.77:8000/play/a09v
-#EXTINF:-1,More4+1
-http://92.114.85.77:8000/play/a07z
-#EXTINF:-1,NOW 80s
-http://92.114.85.77:8000/play/a0ae
-#EXTINF:-1,Quest Red
-http://92.114.85.77:8000/play/a0a3
-#EXTINF:-1,STV East
-http://92.114.85.77:8000/play/a02h
-#EXTINF:-1,STV HD
-http://92.114.85.77:8000/play/a05w
-#EXTINF:-1,STV HD West
-http://92.114.85.77:8000/play/a048
-#EXTINF:-1,STV North
-http://92.114.85.77:8000/play/a02f
-#EXTINF:-1,STV Tayside
-http://92.114.85.77:8000/play/a02i
-#EXTINF:-1,STV West
-http://92.114.85.77:8000/play/a02g
-#EXTINF:-1,Sikh Channel
-http://92.114.85.77:8000/play/a0ah
-#EXTINF:-1,UTV
-http://92.114.85.77:8000/play/a091
-#EXTINF:-1,UTV HD
-http://92.114.85.77:8000/play/a0aa
-#EXTINF:-1,W
-http://92.114.85.77:8000/play/a07f
-#EXTINF:-1,W+1
-http://92.114.85.77:8000/play/a07k
-#EXTINF:-1,YESTERDAY
-http://92.114.85.77:8000/play/a0at
-#EXTINF:-1,YESTERDAY
-http://92.114.85.77:8000/play/a07d
-#EXTINF:-1,YESTERDAY+1
-http://92.114.85.77:8000/play/a0b3
-#EXTINF:-1,alibi
-http://92.114.85.77:8000/play/a0bh
-#EXTINF:-1,alibi+1
-http://92.114.85.77:8000/play/a0bi
-#EXTINF:-1,c4 l
-http://92.114.85.77:8000/play/a084

@@ -1,30 +1,30 @@
 #EXTM3U
-#EXTINF:-1,BBC One
+#EXTINF:-1, BBC One
 http://92.114.85.77:8000/play/a08l/index.m3u8
-#EXTINF:-1,BBC Two HD
+#EXTINF:-1, BBC Two HD
 http://92.114.85.77:8000/play/a08r/index.m3u8
-#EXTINF:-1,BBC Three HD
+#EXTINF:-1, BBC Three HD
 http://92.114.85.77:8000/play/a05p/index.m3u8
-#EXTINF:-1,BBC Four HD
+#EXTINF:-1, BBC Four HD
 http://92.114.85.77:8000/play/a068/index.m3u8
-#EXTINF:-1,BBC NEWS HD
+#EXTINF:-1, BBC NEWS HD
 http://92.114.85.77:8000/play/a03f/index.m3u8
-#EXTINF:-1,BBC RB 1 HD
+#EXTINF:-1, BBC RB 1 HD
 http://92.114.85.77:8000/play/a06g/index.m3u8
-#EXTINF:-1,Channel 4
+#EXTINF:-1, Channel 4
 http://92.114.85.77:8000/play/a09t/index.m3u8
-#EXTINF:-1,Channel 4 HD
+#EXTINF:-1, Channel 4 HD
 http://92.114.85.77:8000/play/a0b9/index.m3u8
-#EXTINF:-1,Channel 4 London +1
+#EXTINF:-1, Channel 4 London +1
 http://92.114.85.77:8000/play/a02s/index.m3u8
-#EXTINF:-1,4seven
+#EXTINF:-1, 4seven
 http://92.114.85.80:8000/play/a01a/index.m3u8
-#EXTINF:-1,Channel 5 HD
+#EXTINF:-1, Channel 5 HD
 http://92.114.85.80:8000/play/a01n/index.m3u8
-#EXTINF:-1,Dave
+#EXTINF:-1, Dave
 http://92.114.85.77:8000/play/a0az/index.m3u8
-#EXTINF:-1,QUEST HD
+#EXTINF:-1, QUEST HD
 http://92.114.85.79:8000/play/a0a4/index.m3u8
-#EXTINF:-1,ViaplayXtraHD
+#EXTINF:-1, ViaplayXtraHD
 http://92.114.85.81:8000/play/a054/index.m3u8
 

@@ -764,4 +764,561 @@ http://92.114.85.80:8000/play/a051
 http://92.114.85.80:8000/play/a03q
 #EXTINF:-1 audio-track="eng" ,SportyStuff HD
 http://92.114.85.80:8000/play/a02c
-
+#EXTINF:-1 tvg-id="zeecinema.uk" tvg-name="UK Zee Cinema" tvg-logo="http://5.44.253.151:80/images/7a5df23d3355b2ef539f8b2d68f91429.png" group-title="UK: Movies", Zee Cinema
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/175781.ts
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="UK 4Music" tvg-logo="http://5.44.253.151:80/images/9dc23f0ba9542e8292338c7b45f53ece.png" group-title="UK: Music", 4Music
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189871.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK Paramount" tvg-logo="http://5.44.253.151:80/images/f677fcbc4498032cb71550149c5cc9ac.png" group-title="UK: Entertainment", Paramount
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189873.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK 5 Star" tvg-logo="http://5.44.253.151:80/images/a945f6311f693ff0576d5d1f28c40557.png" group-title="UK: Entertainment", 5 Star
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189874.ts
+#EXTINF:-1 tvg-id="aajtak.uk" tvg-name="UK Aaj Tak" tvg-logo="http://181.233.124.38:80/images/f149eea464230e535a973c15d339b042.png" group-title="UK: Asia", Aaj Tak
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189876.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK ABP News" tvg-logo="http://181.233.124.38:80/images/4166d43e1b326d171c7ce8fd03512930.jpg" group-title="UK: Asia", ABP News
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189878.ts
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK AL JAZEERA HD" tvg-logo="http://181.233.124.38:80/images/ef63ae02d89191d7cb857ee60ffac545.png" group-title="UK: News", AL JAZEERA HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189879.ts
+#EXTINF:-1 tvg-id="b4uplus.uk" tvg-name="UK B4U PLUS" tvg-logo="http://181.233.124.38:80/images/d7c2717d7dbb65bc9e34e9cdda7f2dec.jpg" group-title="UK: Asia", B4U PLUS
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189888.ts
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="UK baby tv" tvg-logo="http://5.44.253.151:80/images/a9b6fe6f6ee3126a4a988eeee3b95a41.png" group-title="UK: Kids", baby tv
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189889.ts
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK BBC 1" tvg-logo="http://181.233.124.38:80/images/7da10693cbc6a9e65777b8bd2126c426.jpg" group-title="UK: Entertainment", BBC 1
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189890.ts
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK BBC 2" tvg-logo="http://5.44.253.151:80/images/725544db91b4c9396fcd2a98131f122c.png" group-title="UK: Entertainment", BBC 2
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189891.ts
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK BBC News HD" tvg-logo="http://5.44.253.151:80/images/acb6b801d608b2a9dd927bce241b21e5.png" group-title="UK: News", BBC News HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189894.ts
+#EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="UK BBC Parliament" tvg-logo="http://181.233.124.38:80/images/300fe8e89e2d4d21d18aa6b35644474a.png" group-title="UK: News", BBC Parliament
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189898.ts
+#EXTINF:-1 tvg-id="bbc2northernireland.uk" tvg-name="UK BBC Two Northern Ireland" tvg-logo="http://181.233.124.38:80/images/6bb1b96e5a7e5138dedd2c5a73fc3bb0.png" group-title="UK: News", BBC Two Northern Ireland
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189900.ts
+#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="UK BBC World News" tvg-logo="http://181.233.124.38:80/images/2604c016db2a979db3b4138a9104b979.png" group-title="UK: News", BBC World News
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189903.ts
+#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK BLOOMBERG HD" tvg-logo="http://5.44.253.151:80/images/556a002e92487cd62f079adc490981e3.png" group-title="UK: Documentary", BLOOMBERG HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189906.ts
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK Cartoonito" tvg-logo="http://5.44.253.151:80/images/737f9dec5e171dae1ce40cccc8877e3f.png" group-title="UK: Kids", Cartoonito
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189913.ts
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK BBC CBeebies" tvg-logo="http://5.44.253.151:80/images/54e5534fa6f8e50567a29e0013546a79.png" group-title="UK: Kids", BBC CBeebies
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189915.ts
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK Channel 4 HD" tvg-logo="http://181.233.124.38:80/images/8e6d4a2e6481afbcb8b077772a824c34.png" group-title="UK: Entertainment", Channel 4 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189920.ts
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK Channel 5" tvg-logo="http://5.44.253.151:80/images/0c4b9802f37d3dc31cf6a4c659a0a330.png" group-title="UK: Entertainment", Channel 5
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189921.ts
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="UK CNBC News" tvg-logo="http://5.44.253.151:80/images/b246ad2ed084e45544a8865fa9f715f4.png" group-title="UK: News", CNBC News
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189923.ts
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK CNN HD" tvg-logo="http://181.233.124.38:80/images/d89df01dd86b988da77fd9f849f15a1b.png" group-title="UK: News", CNN HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189924.ts
+#EXTINF:-1 tvg-id="colors.uk" tvg-name="UK Colors" tvg-logo="http://181.233.124.38:80/images/1047a31833ea99085675f1e8559b71a7.png" group-title="UK: Asia", Colors
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189925.ts
+#EXTINF:-1 tvg-id="colorsrishtey.uk" tvg-name="UK Colors Rishtey" tvg-logo="https://pbs.twimg.com/profile_images/1107539116072161280/FDsDfyO4.png" group-title="UK: Entertainment", Colors Rishtey
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189926.ts
+#EXTINF:-1 tvg-id="comedycentralextra.uk" tvg-name="UK Comedy Central Extra" tvg-logo="http://5.44.253.151:80/images/96e3d53e0e5a0765e100e2859d506fd5.png" group-title="UK: Entertainment", Comedy Central Extra
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189928.ts
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK Comedy Central FHD" tvg-logo="http://181.233.124.38:80/images/4c0fe015c5cdc2b6385045975a45554e.png" group-title="UK: Entertainment", Comedy Central FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189929.ts
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK Crime & Investigation HD" tvg-logo="http://5.44.253.151:80/images/55fe26db5a5dd86acbdb79b6efd8707e.png" group-title="UK: Entertainment", Crime & Investigation HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189930.ts
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK Dave HD" tvg-logo="http://5.44.253.151:80/images/793bdeb0a3b46e42d8868c11700fac9b.png" group-title="UK: Entertainment", Dave HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189931.ts
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK Discovery" tvg-logo="http://5.44.253.151:80/images/b79c435ba64d9d78afe74110a72725a7.png" group-title="UK: Documentary", Discovery
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189932.ts
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK Discovery Science" tvg-logo="http://5.44.253.151:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="UK: Documentary", Discovery Science
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189934.ts
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK E!" tvg-logo="http://5.44.253.151:80/images/384a1ccd7384adc5e2394c949707bb68.jpg" group-title="UK: Entertainment", E!
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189941.ts
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="UK EDEN HD" tvg-logo="http://5.44.253.151:80/images/59f423a214df4942795b136a2ff82c43.jpg" group-title="UK: Documentary", EDEN HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189944.ts
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK Film 4 HD" tvg-logo="http://181.233.124.38:80/images/1aa27e24a61db92531f16d8a30202d96.png" group-title="UK: Movies", Film 4 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189945.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK Fox News HD" tvg-logo="http://5.44.253.151:80/images/1e99dd2f8170aaeecebe47818c088a93.png" group-title="UK: News", Fox News HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189949.ts
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK Gold" tvg-logo="http://181.233.124.38:80/images/c5777df23e5d59c137c9145a6c121e26.png" group-title="UK: Entertainment", Gold
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189951.ts
+#EXTINF:-1 tvg-id="horseandcountry.uk" tvg-name="UK Horse and Country" tvg-logo="http://5.44.253.151:80/images/1063967ac9fa36eeb0132213a24ab89e.png" group-title="UK: Sport", Horse and Country
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189957.ts
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK Itv 4" tvg-logo="http://5.44.253.151:80/images/8d3b71f41382398c4d0f2ac7ebf49b92.jpg" group-title="UK: Entertainment", Itv 4
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189961.ts
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK ITVBE" tvg-logo="http://5.44.253.151:80/images/f18b429a97e352903f30c8d1ab426e23.png" group-title="UK: Entertainment", ITVBE
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189962.ts
+#EXTINF:-1 tvg-id="lfctv.uk" tvg-name="UK LFC TV" tvg-logo="http://181.233.124.38:80/images/c11566ccf69ebd698c331337e4a12acc.png" group-title="UK: Sport", LFC TV
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189963.ts
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="UK MTV Classic" tvg-logo="http://5.44.253.151:80/images/0baa221715c37fd53dc141a818f0a149.png" group-title="UK: Music", MTV Classic
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189970.ts
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK MTV FHD" tvg-logo="http://5.44.253.151:80/images/88746df486a06d725ff40a5c20f45f51.png" group-title="UK: Entertainment", MTV FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189973.ts
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK MTV Hits HD" tvg-logo="http://181.233.124.38:80/images/cc27b46844a36c592ca98c10c2064748.png" group-title="UK: Music", MTV Hits HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189974.ts
+#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="UK MTV Music" tvg-logo="http://181.233.124.38:80/images/897c58ee5a378fa5f9bdd1929cb54c37.png" group-title="UK: Music", MTV Music
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189975.ts
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK Nat Geo" tvg-logo="http://181.233.124.38:80/images/a9d5251011ef88783688d8f0578363c3.png" group-title="UK: Documentary", Nat Geo
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189979.ts
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK Nick Junior HD" tvg-logo="http://181.233.124.38:80/images/3b72354dc50d363933b9e484a766bb15.jpg" group-title="UK: Kids", Nick Junior HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189981.ts
+#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="UK Nick Junior Too" tvg-logo="http://5.44.253.151:80/images/c51358fcb480bcc63e11a990de5a7ca2.png" group-title="UK: Kids", Nick Junior Too
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189982.ts
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="UK NICK TOONS" tvg-logo="http://181.233.124.38:80/images/a6596626085d2e16f02abc98b82d3f89.jpg" group-title="UK: Kids", NICK TOONS
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189983.ts
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK: POP Channel" tvg-logo="http://181.233.124.38:80/images/ecf1a2bb9528c8ffd3da036e9c51bb96.png" group-title="UK: Kids",UK: POP Channel
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189986.ts
+#EXTINF:-1 tvg-id="questred.uk" tvg-name="UK Quest Red HD" tvg-logo="http://5.44.253.151:80/images/1e509d808f1eb5c25cea780c8b187e41.png" group-title="UK: Entertainment", Quest Red HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189988.ts
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK Sky Sports Racing" tvg-logo="http://5.44.253.151:80/images/5049a61acf59dcab9d2408880495fd9c.png" group-title="UK: Sport", Sky Sports Racing
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189989.ts
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="IR: RTE One" tvg-logo="http://5.44.253.151:80/images/12daf75ec4beb11c5f9b21482b989d48.png" group-title="IRE: Ireland General",IR: RTE One
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189996.ts
+#EXTINF:-1 tvg-id="sky1.uk" tvg-name="UK SKY One" tvg-logo="http://181.233.124.38:80/images/5d0a0906140d979cfea90f8c6ce33ce5.png" group-title="UK: Entertainment", SKY One
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189999.ts
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK Sky News" tvg-logo="http://181.233.124.38:80/images/4681b5209470303e606268931f4cf07a.png" group-title="UK: News", Sky News
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190003.ts
+#EXTINF:-1 tvg-id="starbharat.uk" tvg-name="UK Star Bharat" tvg-logo="http://5.44.253.151:80/images/781622f1caedde337cd7803e42615391.png" group-title="UK: Entertainment", Star Bharat
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190008.ts
+#EXTINF:-1 tvg-id="stargold.uk" tvg-name="UK Star Gold" tvg-logo="http://181.233.124.38:80/images/4537557a40370dbd6140ff783789d4f4.jpg" group-title="UK: Entertainment", Star Gold
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190009.ts
+#EXTINF:-1 tvg-id="stv.uk" tvg-name="UK STV HD" tvg-logo="http://5.44.253.151:80/images/c55cac9a3a709ae2cebb364664ae5737.png" group-title="UK: Entertainment", STV HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190011.ts
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK TLC" tvg-logo="http://181.233.124.38:80/images/bcb43b5e81527e867f6cbe25d5e40e0b.png" group-title="UK: Entertainment", TLC
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190017.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK Travel Channel" tvg-logo="http://5.44.253.151:80/images/bef668b336c4be3c0c8c931092cffa33.png" group-title="UK: Documentary", Travel Channel
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190018.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK Watch" tvg-logo="http://181.233.124.38:80/images/a0ce9d4ed3b7d3bf7b00209c5d267236.png" group-title="UK: Entertainment", Watch
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190027.ts
+#EXTINF:-1 tvg-id="292cc86d86843e997d42cda43a917f29" tvg-name="UK Zing" tvg-logo="http://181.233.124.38:80/images/045c27c7f95cb7279d5574e1d976be62.png" group-title="UK: Entertainment", Zing
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190030.ts
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="UK Clubland" tvg-logo="http://181.233.124.38:80/images/0bf51d515bf31bf6a157310d2117f9ff.png" group-title="UK: Music", Clubland
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/208457.ts
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK Sky Cinema Premiere" tvg-logo="http://5.44.253.151:80/images/26700f7bf1ea6ef1628245b49447c74f.png" group-title="UK: Movies", Sky Cinema Premiere
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/228272.ts
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK Sky Cinema Thriller" tvg-logo="http://181.233.124.38:80/images/d4d925ff19784d36550956f558d8b473.png" group-title="UK: Movies", Sky Cinema Thriller
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/228284.ts
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK Sky Cinema Greats" tvg-logo="http://5.44.253.151:80/images/a2f72bba12b7ce0a705670bf2c76234b.png" group-title="UK: Movies", Sky Cinema Greats
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/228287.ts
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK Sky Cinema Comedy" tvg-logo="http://181.233.124.38:80/images/290dd039d52f0a67fb2a6d805f736038.png" group-title="UK: Movies", Sky Cinema Comedy
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/228290.ts
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK Sky Cinema Action & Adventure" tvg-logo="http://181.233.124.38:80/images/7b6f3c773738b79946229caffbbbfba2.png" group-title="UK: Movies", Sky Cinema Action & Adventure
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/228291.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="IRE: VIRGIN MEDIA ONE" tvg-logo="http://181.233.124.38:80/images/e9ae35032c0720c0b897484bb510121f.png" group-title="IRE: Ireland General",IRE: VIRGIN MEDIA ONE
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391164.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK DESTINATION AMERICA HD" tvg-logo="http://ky-iptv.com:25461/images/96bdcd2ab2b5b8320d854f5fa843ddae.png" group-title="UK: Documentary", DESTINATION AMERICA HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391193.ts
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK EURONEWS HD" tvg-logo="" group-title="UK: Documentary", EURONEWS HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391197.ts
+#EXTINF:-1 tvg-id="rt.uk" tvg-name="UK RT NEWS HD" tvg-logo="" group-title="UK: News", RT NEWS HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391198.ts
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK E4" tvg-logo="http://181.233.124.38:80/images/eb15677085366d8c03e36bca8401d274.png" group-title="UK: Entertainment", E4
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391210.ts
+#EXTINF:-1 tvg-id="popmax.uk" tvg-name="UK POP MAX SD" tvg-logo="data:image/png;base64,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" group-title="UK: Kids", POP MAX SD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391248.ts
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK 5 USA" tvg-logo="http://5.44.253.151:80/images/fc51f4687c61e2918b39625a2f97c75c.png" group-title="UK: Entertainment", 5 USA
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391253.ts
+#EXTINF:-1 tvg-id="amc.uk" tvg-name="UK AMC" tvg-logo="http://5.44.253.151:80/images/37b413808c96432a7669bf003ceae31a.png" group-title="UK: Movies", AMC
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391263.ts
+#EXTINF:-1 tvg-id="now80s.uk" tvg-name="UK: MTV 80s" tvg-logo="http://181.233.124.38:80/images/0a2152472e9fcadc55afc2f2a9f4da1a.png" group-title="UK: Music",UK: MTV 80s
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391284.ts
+#EXTINF:-1 tvg-id="kisstv.uk" tvg-name="UK KISS SD" tvg-logo="http://181.233.124.38:80/images/7dc18adc9b7a4d7e6658886b546d9bc9.png" group-title="UK: Music", KISS SD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391299.ts
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK FREESPORTS" tvg-logo="http://181.233.124.38:80/images/3b77165535f6df4d1615b1bfcdff4df9.png" group-title="UK: Sport", FREESPORTS
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391307.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK HORROR CHANNEL" tvg-logo="http://181.233.124.38:80/images/5eb74124b3d7bc5aac36a26726273c76.png" group-title="UK: Movies", HORROR CHANNEL
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391308.ts
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="UK KERRANG SD" tvg-logo="http://181.233.124.38:80/images/86fee7ca76ff2c0a7bff8676ecbbbf69.png" group-title="UK: Music", KERRANG SD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391321.ts
+#EXTINF:-1 tvg-id="pbsamerica.uk" tvg-name="UK PBS AMERICA SD" tvg-logo="http://5.44.253.151:80/images/4bff0c2ba8925b124c2a890236ec344e.png" group-title="UK: Entertainment", PBS AMERICA SD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391325.ts
+#EXTINF:-1 tvg-id="thebox.uk" tvg-name="UK THE BOX SD" tvg-logo="http://181.233.124.38:80/images/9e1cad3a582fba481d7cd91d69e2bb08.png" group-title="UK: Music", THE BOX SD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391329.ts
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1 HD" tvg-logo="http://5.44.253.151:80/images/d20c4da13b52ed000fd7485cf7eeca32.png" group-title="UK: Sport", EuroSport 1 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391450.ts
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK ITV 2 HD" tvg-logo="http://5.44.253.151:80/images/8b34bdee9d97b6c9d1e5d53d86659281.png" group-title="UK: Entertainment", ITV 2 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391480.ts
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK MORE 4 FHD" tvg-logo="http://5.44.253.151:80/images/d3e55e4ca75a4db5b553f7fa2dfc1dac.jpg" group-title="UK: Entertainment", MORE 4 FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391498.ts
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK Alibi" tvg-logo="http://5.44.253.151:80/images/8cea66350e03cd4b8c83e529c5e7ebf4.png" group-title="UK: Entertainment", Alibi
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391257.ts
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK Blaze" tvg-logo="http://181.233.124.38:80/images/400693c9c66c6b467c671f986c8f1514.png" group-title="UK: Entertainment", Blaze
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189905.ts
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK Sky Atlantic" tvg-logo="http://5.44.253.151:80/images/54dffd791f5bbb4498cb2907e00d8007.png" group-title="UK: Entertainment", Sky Atlantic
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190001.ts
+#EXTINF:-1 tvg-id="skyfeelgood.uk" tvg-name="UK Good Food" tvg-logo="http://5.44.253.151:80/images/cfcad6cb43935b8db9b51e836ca69679.png" group-title="UK: Entertainment", Good Food
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189952.ts
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="UK MTV Base" tvg-logo="http://5.44.253.151:80/images/77c252f9964d12ad78ac0866d7720b73.png" group-title="UK: Music", MTV Base
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189969.ts
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK Nickelodeon" tvg-logo="http://5.44.253.151:80/images/a810105855d8e278fc55fc0a1a3ab7d4.jpg" group-title="UK: Kids", Nickelodeon
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189984.ts
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK CBBC" tvg-logo="http://5.44.253.151:80/images/c635fb44aecbe83abfc03d4b975259db.png" group-title="UK: Entertainment", CBBC
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189914.ts
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK Sky Cinema Hits" tvg-logo="http://181.233.124.38:80/images/1babef3c0b9a855b2d43be10f7129731.png" group-title="UK: Movies", Sky Cinema Hits
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/228286.ts
+#EXTINF:-1 tvg-id="bbc1northernireland.uk" tvg-name="UK BBC One Northern Ireland" tvg-logo="http://181.233.124.38:80/images/cd9702f0df1d7483ea4886caf36af627.jpg" group-title="UK: Entertainment", BBC One Northern Ireland
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189895.ts
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK Nat Geo Wild" tvg-logo="http://181.233.124.38:80/images/84b23a5c1422885695b2bbd82bea2a57.jpg" group-title="UK: Entertainment", Nat Geo Wild
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189980.ts
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="UK Food Network" tvg-logo="http://5.44.253.151:80/images/a975eb8e90525ca0b6f4e5e02e3259e3.png" group-title="UK: Entertainment", Food Network
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189947.ts
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK Investigation Discovery" tvg-logo="http://5.44.253.151:80/images/d4c509af926e6efa1329539c6d95195c.png" group-title="UK: Documentary", Investigation Discovery
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189958.ts
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="UK Sony Channel" tvg-logo="http://181.233.124.38:80/images/95e7923bfc916aba544cb0987805b793.png" group-title="UK: Movies", Sony Channel
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190007.ts
+#EXTINF:-1 tvg-id="greattv.uk" tvg-name="UK Great TV" tvg-logo="http://5.44.253.151:80/images/b1db47c56f654cc5de21cdb5c3137df3.png" group-title="UK: Entertainment", Great TV
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190021.ts
+#EXTINF:-1 tvg-id="5select.uk" tvg-name="UK 5 Select HD" tvg-logo="http://5.44.253.151:80/images/880dc7d7f75577c239952c5f1ed04a8e.png" group-title="UK: Entertainment", 5 Select HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391500.ts
+#EXTINF:-1 tvg-id="picktv.uk" tvg-name="UK: PICK FHD" tvg-logo="http://5.44.253.151:80/images/6d3a83dac82ef89ffce6a2d1013b37c7.png" group-title="UK: Entertainment",UK: PICK FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391327.ts
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK ANIMAL PLANET" tvg-logo="http://5.44.253.151:80/images/34c5a04eec6b4c303be86e1a81c3a117.png" group-title="UK: Entertainment", ANIMAL PLANET
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391170.ts
+#EXTINF:-1 tvg-id="zeetv.uk" tvg-name="UK Zee TV" tvg-logo="http://181.233.124.38:80/images/6b5f931bfc8996a46c0610ef4b87833a.png" group-title="UK: Entertainment", Zee TV
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190029.ts
+#EXTINF:-1 tvg-id="sky2.uk" tvg-name="UK Sky 2 FHD" tvg-logo="http://181.233.124.38:80/images/f5702ae0b475f5f099254f6099097111.png" group-title="UK: Entertainment", Sky 2 FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/515731.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK BT Sports ESPN HD" tvg-logo="http://5.44.253.151:80/images/cb5d3e272b76f640cfb810e5d86a7739.png" group-title="UK: Sport", BT Sports ESPN HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/515737.ts
+#EXTINF:-1 tvg-id="assembleenationale.ca" tvg-name="IRE: VIRGIN MEDIA TWO HD" tvg-logo="http://181.233.124.38:80/images/42c8b6ac20bd4feec66d220b7d431815.png" group-title="IRE: Ireland General",IRE: VIRGIN MEDIA TWO HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391165.ts
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK Racing FHD" tvg-logo="http://5.44.253.151:80/images/b873d609d83e069ec9b835e1b017a4e6.png" group-title="UK: Sport", Racing FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/709536.ts
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK Sky Arts" tvg-logo="http://181.233.124.38:80/images/5d7f50c139c891139d922a424cd0a4ea.png" group-title="UK: Entertainment", Sky Arts
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190000.ts
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK Syfy" tvg-logo="http://181.233.124.38:80/images/9b1e5e5b250a54beff5dd431285f20a8.png" group-title="UK: Entertainment", Syfy
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391330.ts
+#EXTINF:-1 tvg-id="really.uk" tvg-name="UK Really" tvg-logo="http://5.44.253.151:80/images/840796277f36dd5fe49a0d015cf0c885.png" group-title="UK: Entertainment", Really
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189990.ts
+#EXTINF:-1 tvg-id="now90s.uk" tvg-name="UK: Now 90s" tvg-logo="http://181.233.124.38:80/images/0d6a382938592c9f6c4d03fc1e60861b.png" group-title="UK: Music",UK: Now 90s
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/199517.ts
+#EXTINF:-1 tvg-id="Celtic" tvg-name="UK CELTIC TV (Match time only)" tvg-logo="http://5.44.253.151:80/images/3ad27f2b5e113058198b4f01d3e8ce4e.png" group-title="UK: Sport", CELTIC TV (Match time only)
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391313.ts
+#EXTINF:-1 tvg-id="fightbox.uk" tvg-name="UK FIGHT BOX" tvg-logo="http://181.233.124.38:80/images/876c01b5e4e72283d135e5f44b6a7b27.png" group-title="UK: Sport", FIGHT BOX
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391470.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK RED BULL TV FHD" tvg-logo="http://5.44.253.151:80/images/9dac559b17add60a53e4d14c80019b66.png" group-title="UK: Sport", RED BULL TV FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391476.ts
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK Sky Crime" tvg-logo="http://181.233.124.38:80/images/9dfb2fe2f320cf02f1f2e64a23fca60a.png" group-title="UK: Entertainment", Sky Crime
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190019.ts
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="UK Sab TV (SET)" tvg-logo="http://181.233.124.38:80/images/6ab89844b5760e075e0f0b712b9cf1ab.jpg" group-title="UK: Entertainment", Sab TV (SET)
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189998.ts
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="UK: MTV Classic" tvg-logo="http://181.233.124.38:80/images/7bfeaa04e0de3cf345240ade13a9561a.png" group-title="UK: Music",UK: MTV Classic
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1074446.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK MOTORS FHD" tvg-logo="http://181.233.124.38:80/images/c605ce9a6fd7927219fda1af5fa11dbd.png" group-title="UK: Sport", MOTORS FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391473.ts
+#EXTINF:-1 tvg-id="france24.uk" tvg-name="UK France 24 English" tvg-logo="http://5.44.253.151:80/images/fc225edaacc8f6e8b3c1225d1d0769ab.png" group-title="UK: News", France 24 English
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189950.ts
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK MUTV HD" tvg-logo="http://181.233.124.38:80/images/30f789530c78d97ebeee76f49d9466e6.png" group-title="UK: Sport", MUTV HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189978.ts
+#EXTINF:-1 tvg-id="mtvlive.uk" tvg-name="UK MTV LIVE FHD" tvg-logo="http://5.44.253.151:80/images/dd074453c452a580426ed2a88648cfa1.png" group-title="UK: Music", MTV LIVE FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391289.ts
+#EXTINF:-1 tvg-id="b4umusic.uk" tvg-name="UK B4U Music" tvg-logo="http://5.44.253.151:80/images/4d5039d620e0d8fafb345e3ef8ac4900.png" group-title="UK: Music", B4U Music
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189887.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK ICONCERTS" tvg-logo="http://5.44.253.151:80/images/26767d55d09dbe274b5ed4e12179a7fa.png" group-title="UK: Entertainment", ICONCERTS
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/188357.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK Faith World TV SD" tvg-logo="http://5.44.253.151:80/images/54f1d464e631b9b4f8af165924088270.png" group-title="UK: Religion", Faith World TV SD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1139081.ts
+#EXTINF:-1 tvg-id="bbcalba.uk" tvg-name="UK BBC Alba" tvg-logo="http://181.233.124.38:80/images/9e4d1edc520a3e72c5f27c54e54f51ca.jpg" group-title="UK: Entertainment", BBC Alba
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189893.ts
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK ITV 1 HD" tvg-logo="http://5.44.253.151:80/images/ab87b0e85a7271d82fa054e9cea46ed8.png" group-title="UK: Entertainment", ITV 1 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1151892.ts
+#EXTINF:-1 tvg-id="bbc1wales.uk" tvg-name="UK BBC One Wales" tvg-logo="http://5.44.253.151:80/images/1d714890efc80aeab6ae57d9b85001de.jpg" group-title="UK: Entertainment", BBC One Wales
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189897.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK Life Time HD" tvg-logo="http://181.233.124.38:80/images/69922de7aa68cc34b3cd6d2408b446b3.png" group-title="UK: Entertainment", Life Time HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189964.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK SkySports F1" tvg-logo="http://181.233.124.38:80/images/c98060173f9e4e100685b5fc6febff6d.png" group-title="UK: Sport", SkySports F1
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1196396.ts
+#EXTINF:-1 tvg-id="kicctv.uk" tvg-name="UK Kicc TV" tvg-logo="http://181.233.124.38:80/images/814b36a5c4a7a7a048ae3489e8c5afe3.png" group-title="UK: Religion", Kicc TV
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1138964.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro SuperSport 1 HD" tvg-logo="http://181.233.124.38:80/images/9a0854f6278543e50a4a31a23b45ea0b.png" group-title="UK: EPL Games",EPL: Astro SuperSport 1 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391035.ts
+#EXTINF:-1 tvg-id="trtworld.uk" tvg-name="UK TRT World" tvg-logo="http://181.233.124.38:80/images/ab347d381259c35941d87885f5399240.png" group-title="UK: News", TRT World
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1395476.ts
+#EXTINF:-1 tvg-id="zeecinema.uk" tvg-name="UK Zee Cinema" tvg-logo="http://5.44.253.151:80/images/de4ec1e10f7012a51fbdcc20479b7622.png" group-title="UK: Asia", Zee Cinema
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1396380.ts
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="UK Sony TV UK" tvg-logo="http://5.44.253.151:80/images/e4424084803310384eb38ba0c543cc21.png" group-title="UK: Asia", Sony TV UK
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1396382.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK ARY News" tvg-logo="http://5.44.253.151:80/images/08d878abb0489b732690cc65d67ae45a.png" group-title="UK: Asia", ARY News
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1396389.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK BT SPORTS EXTRA 5 HD" tvg-logo="http://5.44.253.151:80/images/a1a7d4ac08960a9543b7c99579f606ca.png" group-title="UK: Sport", BT SPORTS EXTRA 5 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1400409.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK BT SPORTS EXTRA 6 HD" tvg-logo="http://5.44.253.151:80/images/cab7591e084e0fdebf24867b2f19d5ec.png" group-title="UK: Sport", BT SPORTS EXTRA 6 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1400410.ts
+#EXTINF:-1 tvg-id="popplus1.uk" tvg-name="UK POP +1" tvg-logo="http://5.44.253.151:80/images/9166f573b068341785e0dab7ad46cba3.png" group-title="UK: Entertainment", POP +1
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1400870.ts
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK: EURO NEWS" tvg-logo="http://181.233.124.38:80/images/0ffc24973cf0625022a6f8e2d716de04.png" group-title="UK: News",UK: EURO NEWS
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1402296.ts
+#EXTINF:-1 tvg-id="colorshd.uk" tvg-name="UK Colors Europe" tvg-logo="http://181.233.124.38:80/images/03474fd2f19462f7aabb5189964d2b62.png" group-title="UK: Movies", Colors Europe
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1122052.ts
+#EXTINF:-1 tvg-id="bbcscotland.uk" tvg-name="UK BBC Scotland" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/social_media_share/public/2019-09/bbc-scotland-logo.png?itok=mt_AfXgu" group-title="UK: Entertainment", BBC Scotland
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1447404.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK MSNBC TV" tvg-logo="http://181.233.124.38:80/images/a166269b41bbae6b4af153d35d1dda0a.png" group-title="UK: News", MSNBC TV
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1395477.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK Disney Channel FHD" tvg-logo="http://181.233.124.38:80/images/6c5c0e524d7086b0a00dbf9446e93193.png" group-title="UK: Kids", Disney Channel FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1661120.ts
+#EXTINF:-1 tvg-id="citv.uk" tvg-name="UK C ITV" tvg-logo="http://5.44.253.151:80/images/1142518e14b4f25eb6cc13eb74d46aa9.png" group-title="UK: Kids", C ITV
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189911.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK SKY SPORTS GOLF HD" tvg-logo="http://5.44.253.151:80/images/d52256cbe4fb8680863d201da9a2e032.png" group-title="UK: Sport", SKY SPORTS GOLF HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391434.ts
+#EXTINF:-1 tvg-id="sky2.uk" tvg-name="UK Sky Two" tvg-logo="http://181.233.124.38:80/images/f39339c7a91d31344a318985909bc4d0.png" group-title="UK: Entertainment", Sky Two
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190005.ts
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="UK Tiny Pop" tvg-logo="http://181.233.124.38:80/images/c1aa37d976440366be4194b99b7aebdb.jpg" group-title="UK: Kids", Tiny Pop
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190016.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Disney HD" tvg-logo="http://5.44.253.151:80/images/cbb8de2904c4783150be219a633e7d5c.png" group-title="UK: Kids",UK: Sky Disney HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1661205.ts
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK Premier Sports 1 FHD" tvg-logo="http://5.44.253.151:80/images/939d307be44426ffcabe6a3809c7e391.png" group-title="UK: Sport", Premier Sports 1 FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/229003.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY STORE PRE-ORDER KIDS HD" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/06/Sky-Store-300x187.png?resize=300%2C187" group-title="UK: Kids", SKY STORE PRE-ORDER KIDS HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1400415.ts
+#EXTINF:-1 tvg-id="starplus.uk" tvg-name="UK Star Plus (Utsav Plus)" tvg-logo="http://181.233.124.38:80/images/67985fdbf1f13fd1d47a3d4201fb48c7.png" group-title="UK: Entertainment", Star Plus (Utsav Plus)
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190010.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK Viceland HD" tvg-logo="http://5.44.253.151:80/images/66051767fc573e7ddd6b6b813dd516e7.jpg" group-title="UK: Documentary", Viceland HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190026.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Now HK Premier Sports 1" tvg-logo="http://181.233.124.38:80/images/16a97e41bba3688fb3d372c232030faf.png" group-title="UK: EPL Games",EPL: Now HK Premier Sports 1
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391046.ts
+#EXTINF:-1 tvg-id="islamchannel.uk" tvg-name="UK: Islam Channel HD" tvg-logo="http://5.44.253.151:80/images/4ff15ddb4442d4d849a45c7945613865.png" group-title="UK: Asia",UK: Islam Channel HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1751910.ts
+#EXTINF:-1 tvg-id="emanchannel.uk" tvg-name="UK: Eman Channel SD" tvg-logo="http://5.44.253.151:80/images/c1c2c7f038b2c374251d19b8df35f100.png" group-title="UK: Religion",UK: Eman Channel SD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1751911.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Now HK Premier Sports 2" tvg-logo="http://5.44.253.151:80/images/16a97e41bba3688fb3d372c232030faf.png" group-title="UK: EPL Games",EPL: Now HK Premier Sports 2
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391047.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Now HK Premier Sports 3" tvg-logo="http://5.44.253.151:80/images/16a97e41bba3688fb3d372c232030faf.png" group-title="UK: EPL Games",EPL: Now HK Premier Sports 3
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391048.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Now HK Premier Sports 4" tvg-logo="http://5.44.253.151:80/images/16a97e41bba3688fb3d372c232030faf.png" group-title="UK: EPL Games",EPL: Now HK Premier Sports 4
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391049.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Now HK Premier Sports 5" tvg-logo="http://181.233.124.38:80/images/16a97e41bba3688fb3d372c232030faf.png" group-title="UK: EPL Games",EPL: Now HK Premier Sports 5
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391050.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Now HK Premier Sports 6" tvg-logo="http://181.233.124.38:80/images/16a97e41bba3688fb3d372c232030faf.png" group-title="UK: EPL Games",EPL: Now HK Premier Sports 6
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391051.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Now HK Premier Sports 7" tvg-logo="http://181.233.124.38:80/images/16a97e41bba3688fb3d372c232030faf.png" group-title="UK: EPL Games",EPL: Now HK Premier Sports 7
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391052.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK Ary Qtv" tvg-logo="http://5.44.253.151:80/images/8917fd63a81c7187c9cedd6dc97146af.jpeg" group-title="UK: Religion", Ary Qtv
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1768476.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK MTV Club" tvg-logo="http://5.44.253.151:80/images/e152522a82315f41e07517fdac551599.png" group-title="UK: Music", MTV Club
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1768479.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK MTV Rocks" tvg-logo="http://5.44.253.151:80/images/d843d16eeb315808a5c96e3744e01456.png" group-title="UK: Music", MTV Rocks
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1768480.ts
+#EXTINF:-1 tvg-id="sonyentertainmenttvasia.uk" tvg-name="UK Sony Entertainment" tvg-logo="http://tvstar.live:8880/chimg/5167105478.png" group-title="UK: Asia", Sony Entertainment
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1396381.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Ary Muzik" tvg-logo="http://181.233.124.38:80/images/7fb6ed1cbef4c61e9c8d2c6e667715e2.png" group-title="UK: Music",UK: Ary Muzik
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1769147.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK Paramount Network  (P)" tvg-logo="http://181.233.124.38:80/images/0b2ef41a96bc95d851582c2ab30bc5be.png" group-title="UK: Entertainment", Paramount Network  (P)
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1769151.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK Cartoon Network" tvg-logo="http://181.233.124.38:80/images/c85b2327e1fc161835cbc508ba618c61.png" group-title="UK: Kids", Cartoon Network
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1769152.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Cinema Musicals" tvg-logo="http://5.44.253.151:80/images/11f2ee9c33fd9c27a3efd8dcf8b26917.png" group-title="UK: Movies", Sky Cinema Musicals
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1769155.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK Sky Sports Cricket" tvg-logo="http://5.44.253.151:80/images/396c09ca3fc240d83640a44721b6321f.png" group-title="UK: Sport", Sky Sports Cricket
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1769162.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK VH1" tvg-logo="http://181.233.124.38:80/images/bb09194912624193e1404fbc8cd98eb6.png" group-title="UK: Music", VH1
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1769216.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK PRESS TV HD" tvg-logo="http://5.44.253.151:80/images/44110c5761d12f473853097b4d05ceb7.png" group-title="UK: News", PRESS TV HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391203.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK Sky Sports Premier League" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="UK: Sport", Sky Sports Premier League
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1821337.ts
+#EXTINF:-1 tvg-id="bbc2wales.uk" tvg-name="UK BBC Two Wales" tvg-logo="http://181.233.124.38:80/images/5bf89959cce9f949ae1013a78fac1c33.png" group-title="UK: News", BBC Two Wales
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189902.ts
+#EXTINF:-1 tvg-id="britishmuslim.uk" tvg-name="UK BRITISH MUSLIM TV SD" tvg-logo="" group-title="UK: Entertainment", BRITISH MUSLIM TV SD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391196.ts
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK History 2" tvg-logo="http://5.44.253.151:80/images/6b1071d38721c763dfa7e24ce8048d3f.jpg" group-title="UK: Documentary", History 2
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189953.ts
+#EXTINF:-1 tvg-id="londonlive.uk" tvg-name="UK London Live" tvg-logo="http://5.44.253.151:80/images/d56975ae8d4d43e21e5aac8af6cc3d83.png" group-title="UK: Entertainment", London Live
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189965.ts
+#EXTINF:-1 tvg-id="gbnews.uk" tvg-name="UK: GB News" tvg-logo="" group-title="UK: News",UK: GB News
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1836213.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK DISNEY JUNIOR FHD" tvg-logo="http://5.44.253.151:80/images/954361d7b8c0a644bdcc491b15b37f11.png" group-title="UK: Kids", DISNEY JUNIOR FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391238.ts
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport 1 HD" tvg-logo="http://5.44.253.151:80/images/aaf73bfefdfaaf734d02974efa8ef713.png" group-title="UK: Sport",UK: Eurosport 1 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1846756.ts
+#EXTINF:-1 timeshift="1" tvg-id="btsport1.uk" tvg-name="UK TNT Sports 1" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="UK: Sport", TNT Sports 1
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1846762.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK TNT Sports 2" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="UK: Sport", TNT Sports 2
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1846763.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK TNT Sports 3" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="UK: Sport", TNT Sports 3
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1846764.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT SPORTS EXTRA 1 HD" tvg-logo="http://181.233.124.38:80/images/a1a7d4ac08960a9543b7c99579f606ca.png" group-title="UK: Sport",UK: BT SPORTS EXTRA 1 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1846767.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT SPORTS EXTRA 2 HD" tvg-logo="http://181.233.124.38:80/images/a1a7d4ac08960a9543b7c99579f606ca.png" group-title="UK: Sport",UK: BT SPORTS EXTRA 2 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1846768.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT SPORTS EXTRA 3 HD" tvg-logo="http://5.44.253.151:80/images/a1a7d4ac08960a9543b7c99579f606ca.png" group-title="UK: Sport",UK: BT SPORTS EXTRA 3 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1846769.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT SPORTS EXTRA 4 HD" tvg-logo="http://5.44.253.151:80/images/a1a7d4ac08960a9543b7c99579f606ca.png" group-title="UK: Sport",UK: BT SPORTS EXTRA 4 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1846770.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK Sky Sports Action" tvg-logo="http://181.233.124.38:80/images/912c7b408e0f7e685f05a3a03491bd94.png" group-title="UK: Sport", Sky Sports Action
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1846771.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK Sky Sports Arena" tvg-logo="http://5.44.253.151:80/images/c749825ef6eb67a6a5a68f27e5a33b6c.png" group-title="UK: Sport", Sky Sports Arena
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1846772.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1" tvg-logo="http://181.233.124.38:80/images/10d30ba83defda917ee0d16c6a595683.png" group-title="UK: Sport", Sky Sports F1
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1846774.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK Sky Sports Football" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="UK: Sport", Sky Sports Football
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1846775.ts
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2 HD" tvg-logo="http://181.233.124.38:80/images/5f0345f01875bcd1d5961b0756f1f628.png" group-title="UK: Sport",UK: Eurosport 2 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1847082.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK Sky Sports Main Events" tvg-logo="http://181.233.124.38:80/images/1cce57ad190cd13f61ee3cae3199414b.png" group-title="UK: Sport", Sky Sports Main Events
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1847084.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK Sky Sports News" tvg-logo="http://181.233.124.38:80/images/1f262f0319876c9cf1e459eb607e3340.png" group-title="UK: Sport", Sky Sports News
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1769168.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports MIX" tvg-logo="http://5.44.253.151:80/images/d860c20ab01452c240fc15100677c5a6.png" group-title="UK: Sport", Sky Sports MIX
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1847433.ts
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK Sky Cinema Drama" tvg-logo="http://5.44.253.151:80/images/9636f2535c45c315c97b99168878e14c.png" group-title="UK: Movies", Sky Cinema Drama
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/228295.ts
+#EXTINF:-1 tvg-id="now80s.uk" tvg-name="UK Now 80s" tvg-logo="http://5.44.253.151:80/images/63c085b8f4f1dd46ed253f44a92ca4fb.png" group-title="UK: Music", Now 80s
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1851506.ts
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK BBC Four" tvg-logo="http://181.233.124.38:80/images/34b1bf30c72bd3dd8c832bd5652c6097.png" group-title="UK: Entertainment", BBC Four
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1858077.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Optus Sport 3" tvg-logo="http://181.233.124.38:80/images/2f4271d155962fd3d650626c8473d3a0.png" group-title="UK: EPL Games",EPL: Optus Sport 3
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391041.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Optus Sport 4" tvg-logo="http://181.233.124.38:80/images/2f4271d155962fd3d650626c8473d3a0.png" group-title="UK: EPL Games",EPL: Optus Sport 4
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391042.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Optus Sport 5" tvg-logo="http://181.233.124.38:80/images/2f4271d155962fd3d650626c8473d3a0.png" group-title="UK: EPL Games",EPL: Optus Sport 5
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391043.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Optus Sport 2" tvg-logo="http://181.233.124.38:80/images/2f4271d155962fd3d650626c8473d3a0.png" group-title="UK: EPL Games",EPL: Optus Sport 2
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391040.ts
+#EXTINF:-1 tvg-id="wion.uk" tvg-name="UK WION  FHD" tvg-logo="http://5.44.253.151:80/images/3b4180fbd26926319b33279b63fa0e8d.jpg" group-title="UK: News", WION  FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1900579.ts
+#EXTINF:-1 tvg-id="greatmovies.uk" tvg-name="UK Great Movies" tvg-logo="http://181.233.124.38:80/images/1cfb499e1c531d47548385553b3a055b.png" group-title="UK: Movies", Great Movies
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1851508.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK BBC Two Scotland" tvg-logo="http://181.233.124.38:80/images/f78ebffbd364b7b834f4ffab0bdc039f.png" group-title="UK: Entertainment", BBC Two Scotland
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1768478.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK BET" tvg-logo="http://5.44.253.151:80/images/4d8d23296b768225028c957c07df6b6e.png" group-title="UK: Entertainment", BET
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189904.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK Club MTV" tvg-logo="http://181.233.124.38:80/images/5a03eaa5aabefed79df40270e9ebd250.png" group-title="UK: Music", Club MTV
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189971.ts
+#EXTINF:-1 tvg-id="RTENews.uk" tvg-name="UK RTE News Now" tvg-logo="http://181.233.124.38:80/images/f1d7a5c854c4394914588ba6b8d3ee8d.png" group-title="IRE: Ireland General", RTE News Now
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189995.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK DISNEY XD" tvg-logo="" group-title="UK: Kids", DISNEY XD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2060757.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Sci-fi & Horror" tvg-logo="" group-title="UK: Movies",UK: Sky Cinema Sci-fi & Horror
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2060758.ts
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK 4SEVEN" tvg-logo="http://181.233.124.38:80/images/d35e8ef946d7f8ec422ec52d0450e59f.jpg" group-title="UK: Entertainment", 4SEVEN
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189872.ts
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK DMAX HD" tvg-logo="" group-title="UK: Entertainment", DMAX HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2063022.ts
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK PREMIER SPORTS 2" tvg-logo="http://5.44.253.151:80/images/984fb56c9fda7d359f048a629f4fb6c3.png" group-title="UK: Sport", PREMIER SPORTS 2
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391420.ts
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK Discovery Turbo" tvg-logo="http://5.44.253.151:80/images/f5108e0f162b721881b2b4366dad8877.jpg" group-title="UK: Documentary", Discovery Turbo
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189936.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Magic TV" tvg-logo="" group-title="UK: Entertainment",UK: Magic TV
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2094028.ts
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK SKY CINEMA CRIME & THRILLER" tvg-logo="http://181.233.124.38:80/images/810e633cd0065d4bcbc7cf034ec15ff2.png" group-title="UK: Movies", SKY CINEMA CRIME & THRILLER
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391353.ts
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK BOOMERANG TV SD" tvg-logo="http://181.233.124.38:80/images/0fb946261f2e96968dba337f4d932651.png" group-title="UK: Kids", BOOMERANG TV SD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391241.ts
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK Drama" tvg-logo="http://181.233.124.38:80/images/2fbbea221366d59d0d0f616a9070c3b3.png" group-title="UK: Entertainment", Drama
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189940.ts
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Sci-fi" tvg-logo="http://5.44.253.151:80/images/5c78b6fea30e7f5cec56627107f5d30c.png" group-title="UK: Movies", Sky Cinema Sci-fi
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/228281.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK BBC One HD" tvg-logo="" group-title="UK: Entertainment", BBC One HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2104319.ts
+#EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="UK: Sky History HD" tvg-logo="" group-title="UK: Documentary",UK: Sky History HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2113484.ts
+#EXTINF:-1 tvg-id="bbc1scotland.uk" tvg-name="UK BBC One Scotland" tvg-logo="http://181.233.124.38:80/images/48f7900ffdc3ab6b27787b423690a342.png" group-title="UK: Entertainment", BBC One Scotland
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2124836.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPFL: Celtic TV (Live On Matchday)" tvg-logo="" group-title="UK: Sport",SPFL: Celtic TV (Live On Matchday)
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2134200.ts
+#EXTINF:-1 tvg-id="TruTV.uk" tvg-name="UK TRU TV" tvg-logo="http://5.44.253.151:80/images/cb0efcb2a88309dadbafa869374bc0cd.png" group-title="UK: Entertainment", TRU TV
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391499.ts
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK S4C" tvg-logo="http://5.44.253.151:80/images/adf75bf2dc504296a5ab57f3de081274.png" group-title="UK: Entertainment", S4C
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189997.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Now HK Premier Sports 8" tvg-logo="http://181.233.124.38:80/images/16a97e41bba3688fb3d372c232030faf.png" group-title="UK: EPL Games",EPL: Now HK Premier Sports 8
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391053.ts
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK History Channel FHD" tvg-logo="http://5.44.253.151:80/images/3df991b5c07707c4a9bcf182071ab904.png" group-title="UK: Documentary", History Channel FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189954.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Now 70s" tvg-logo="" group-title="UK: Music",UK: Now 70s
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2207518.ts
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK Discovery History" tvg-logo="http://5.44.253.151:80/images/4091586e9f0c02c074c3e50f5d21633f.jpg" group-title="UK: Documentary", Discovery History
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189933.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK TNT Sports 4" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="UK: Sport", TNT Sports 4
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2274006.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro SuperSport 5 HD" tvg-logo="http://5.44.253.151:80/images/9a0854f6278543e50a4a31a23b45ea0b.png" group-title="UK: EPL Games",EPL: Astro SuperSport 5 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2276084.ts
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK ITV 3 HD" tvg-logo="http://181.233.124.38:80/images/efe55b3f2ec3baa40a9b836a22064285.png" group-title="UK: Entertainment", ITV 3 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/199506.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK Sony Movies Action" tvg-logo="http://181.233.124.38:80/images/cce705c14fc0839061fc5d83f4a5057b.png" group-title="UK: Movies", Sony Movies Action
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/175780.ts
+#EXTINF:-1 tvg-id="BBC3" tvg-name="UK BBC 3" tvg-logo="http://181.233.124.38:80/images/95bf6ef010441281c83eb776aaede25b.png" group-title="UK: Entertainment", BBC 3
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1851507.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro SuperSport 2 HD" tvg-logo="http://5.44.253.151:80/images/367c6b0363e0fef758ea8140407da5b2.png" group-title="UK: EPL Games",EPL: Astro SuperSport 2 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391036.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro SuperSport 3 HD" tvg-logo="http://181.233.124.38:80/images/d392122a7cd712a2d582511ccf14c431.png" group-title="UK: EPL Games",EPL: Astro SuperSport 3 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391037.ts
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema SciFi & Horror" tvg-logo="http://181.233.124.38:80/images/d8f11f26fd187bd221b9b5fd73741774.png" group-title="UK: Movies", Sky Cinema SciFi & Horror
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391355.ts
+#EXTINF:-1 tvg-id="RTETwo.ie" tvg-name="IR: RTE 2" tvg-logo="http://5.44.253.151:80/images/48c5d1a24ae78c5ceece703b58654fe6.png" group-title="IRE: Ireland General",IR: RTE 2
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189992.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Optus Sport 1" tvg-logo="http://181.233.124.38:80/images/2f4271d155962fd3d650626c8473d3a0.png" group-title="UK: EPL Games",EPL: Optus Sport 1
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391039.ts
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK Sky Cinema Animation" tvg-logo="" group-title="UK: Movies", Sky Cinema Animation
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2104320.ts
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK Sky Nature" tvg-logo="" group-title="UK: Documentary", Sky Nature
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/515732.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro SuperSport 4 HD" tvg-logo="http://5.44.253.151:80/images/bec210c122b2c86eda463fbaf45c88b0.png" group-title="UK: EPL Games",EPL: Astro SuperSport 4 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1391038.ts
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="UK Yesterday HD" tvg-logo="http://5.44.253.151:80/images/a97a9104727a6140e6513fccbadec8fe.png" group-title="UK: Documentary", Yesterday HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/190028.ts
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK SKY WITNESS" tvg-logo="http://5.44.253.151:80/images/05ddddde82fd86ba7de7b4b93ab2bc6e.png" group-title="UK: Documentary", SKY WITNESS
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391344.ts
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK ITV 2" tvg-logo="http://181.233.124.38:80/images/8b34bdee9d97b6c9d1e5d53d86659281.png" group-title="UK: Entertainment", ITV 2
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2620946.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG HubPremier 1" tvg-logo="http://181.233.124.38:80/images/ab6e0fc193a5f81b3d8d39b48a6ca7bf.png" group-title="UK: EPL Games",SG HubPremier 1
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688447.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG HubPremier 2" tvg-logo="http://5.44.253.151:80/images/ab6e0fc193a5f81b3d8d39b48a6ca7bf.png" group-title="UK: EPL Games",SG HubPremier 2
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688448.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG HubPremier 3" tvg-logo="http://5.44.253.151:80/images/ab6e0fc193a5f81b3d8d39b48a6ca7bf.png" group-title="UK: EPL Games",SG HubPremier 3
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688449.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG HubPremier 4" tvg-logo="http://5.44.253.151:80/images/ab6e0fc193a5f81b3d8d39b48a6ca7bf.png" group-title="UK: EPL Games",SG HubPremier 4
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688450.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG HubPremier 5" tvg-logo="http://5.44.253.151:80/images/ab6e0fc193a5f81b3d8d39b48a6ca7bf.png" group-title="UK: EPL Games",SG HubPremier 5
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688451.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG HubPremier 6" tvg-logo="http://181.233.124.38:80/images/ab6e0fc193a5f81b3d8d39b48a6ca7bf.png" group-title="UK: EPL Games",SG HubPremier 6
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688452.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG HubPremier 7" tvg-logo="http://5.44.253.151:80/images/ab6e0fc193a5f81b3d8d39b48a6ca7bf.png" group-title="UK: EPL Games",SG HubPremier 7
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688453.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG HubPremier 8" tvg-logo="http://181.233.124.38:80/images/ab6e0fc193a5f81b3d8d39b48a6ca7bf.png" group-title="UK: EPL Games",SG HubPremier 8
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688454.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG HubPremier 9" tvg-logo="http://181.233.124.38:80/images/ab6e0fc193a5f81b3d8d39b48a6ca7bf.png" group-title="UK: EPL Games",SG HubPremier 9
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688455.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG HubPremier 10" tvg-logo="http://5.44.253.151:80/images/ab6e0fc193a5f81b3d8d39b48a6ca7bf.png" group-title="UK: EPL Games",SG HubPremier 10
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688456.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG HubPremier 11" tvg-logo="http://5.44.253.151:80/images/ab6e0fc193a5f81b3d8d39b48a6ca7bf.png" group-title="UK: EPL Games",SG HubPremier 11
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688457.ts
+#EXTINF:-1 tvg-id="" tvg-name="Carib CSport" tvg-logo="https://static.csport.tv/icons/headerLogo.png" group-title="UK: EPL Games",Carib CSport
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688459.ts
+#EXTINF:-1 tvg-id="" tvg-name="Carib CSport 2" tvg-logo="https://static.csport.tv/icons/headerLogo.png" group-title="UK: EPL Games",Carib CSport 2
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2688460.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK CineBox Action" tvg-logo="https://play-lh.googleusercontent.com/ywHTJ0axmo_ckxsc8Wut5chFqUETP_TxWYAPlSqIU6DCIL_Ishch4chnvL6pZ_dSjgfm=w600-h300-pc0xffffff-pd" group-title="UK: Entertainment", CineBox Action
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2696384.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK CineBox Family" tvg-logo="https://play-lh.googleusercontent.com/ywHTJ0axmo_ckxsc8Wut5chFqUETP_TxWYAPlSqIU6DCIL_Ishch4chnvL6pZ_dSjgfm=w600-h300-pc0xffffff-pd" group-title="UK: Entertainment", CineBox Family
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2696443.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK CineBox Comedy" tvg-logo="https://play-lh.googleusercontent.com/ywHTJ0axmo_ckxsc8Wut5chFqUETP_TxWYAPlSqIU6DCIL_Ishch4chnvL6pZ_dSjgfm=w600-h300-pc0xffffff-pd" group-title="UK: Entertainment", CineBox Comedy
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2696444.ts
+#EXTINF:-1 tvg-id="" tvg-name="IR: TG4" tvg-logo="" group-title="IRE: Ireland General",IR: TG4
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2696843.ts
+#EXTINF:-1 tvg-id="bbcyorkshire.uk" tvg-name="UK BBC One Yorkshire" tvg-logo="" group-title="UK: Entertainment", BBC One Yorkshire
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2702084.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky SPORTS CRICKET" tvg-logo="http://5.44.253.151:80/images/6167c809bd7a49de6e84d1e53c6ae4ea.png" group-title="Sport Cricket",Sky SPORTS CRICKET
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2210032.ts
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK Quest" tvg-logo="http://181.233.124.38:80/images/3e56979434cd5071f363239f8a63829a.png" group-title="UK: Entertainment", Quest
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391501.ts
+#EXTINF:-1 tvg-id="hgtv.uk" tvg-name="UK HGTV" tvg-logo="http://181.233.124.38:80/images/fa5369761ae1eced1cb1c55b8f350a04.png" group-title="UK: Entertainment", HGTV
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1077497.ts
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK CBS Reality" tvg-logo="http://5.44.253.151:80/images/6b54f51e25416190d28fe2f9a42f9eaa.png" group-title="UK: Entertainment", CBS Reality
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/189918.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK MotorRacing" tvg-logo="http://181.233.124.38:80/images/b67815fb774fa543b12578346a81c228.png" group-title="UK: Sport", MotorRacing
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/2416036.ts
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK Sky Documentaries" tvg-logo="http://5.44.253.151:80/images/91f19ecfd71b6f41f5782e77309265e1.png" group-title="UK: Documentary", Sky Documentaries
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1400759.ts
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK SKY CINEMA SELECT FHD" tvg-logo="http://181.233.124.38:80/images/9a504de4ce274434c60248ccff252e04.png" group-title="UK: Movies", SKY CINEMA SELECT FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391354.ts
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK CHALLENGE TV" tvg-logo="http://5.44.253.151:80/images/c0ded9ce854cd102243db099b3f594e8.png" group-title="UK: Entertainment", CHALLENGE TV
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/391270.ts
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="USA Smithsonian Channel" tvg-logo="http://181.233.124.38:80/images/ae7fdaa589db658efacf2b6387221c47.jpg" group-title="USA Documentary",USA Smithsonian Channel
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/175930.ts
+#EXTINF:-1 tvg-id="SMITHPH" tvg-name="USA Smithsonian Channel West" tvg-logo="http://181.233.124.38:80/images/2cb2a8ea1279cae1306b0ad30a5c2b8e.png" group-title="USA Documentary",USA Smithsonian Channel West
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1771482.ts
+#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="CA SMITHSONIAN Channel HD" tvg-logo="http://181.233.124.38:80/images/c086052a1c0d40dcc3ea76942f90d1cd.png" group-title="CA: Canada Entertainment",CA SMITHSONIAN Channel HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/228630.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Smithsonian Channel" tvg-logo="http://5.44.253.151:80/images/c086052a1c0d40dcc3ea76942f90d1cd.png" group-title="Latino All",LA: Smithsonian Channel
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1619687.ts
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BeIN SPORTS 2 English FHD" tvg-logo="http://181.233.124.38:80/images/0b12e0d9ce59c29d33605b5d59de6f3b.png" group-title="AR: Arab BeIN sports VIP",BeIN SPORTS 2 English FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1248327.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sport English 4k 1" tvg-logo="" group-title="AR: Bein 4K",AR: beIN Sport English 4k 1
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1832318.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sport English 4k 2" tvg-logo="" group-title="AR: Bein 4K",AR: beIN Sport English 4k 2
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1832319.ts
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BeIN Sports English 1 HD" tvg-logo="http://5.44.253.151:80/images/5f7cc35966747dfe2f67d764c6c232e5.png" group-title="AR: Arab BeIN sports VIP",BeIN Sports English 1 HD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1400762.ts
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="BeIN Sports English 3 FHD" tvg-logo="http://181.233.124.38:80/images/add3f424fc9cc9864ac4c7a880defd0f.png" group-title="AR: Arab BeIN sports VIP",BeIN Sports English 3 FHD
+http://live.iptvcanada.tv:80/jkrvkzufk4/9278268993/1400763.ts

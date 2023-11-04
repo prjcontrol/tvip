@@ -664,12 +664,6 @@ http://92.114.85.77:8000/play/a069
 http://92.114.85.78:8000/play/a00h
 #EXTINF:-1 audio-track="eng" ,CNBC HD
 http://92.114.85.77:8000/play/a0b6
-#EXTINF:-1 audio-track="eng" ,GB News HD
-http://92.114.85.78:8000/play/a00e
-#EXTINF:-1 audio-track="eng" ,FRANCE 24 HD
-http://92.114.85.78:8000/play/a025
-#EXTINF:-1 audio-track="eng" ,Bloomberg HD
-http://92.114.85.78:8000/play/a00j
 #EXTINF:-1 audio-track="eng" ,4Music
 http://92.114.85.77:8000/play/a05t
 #EXTINF:-1 audio-track="eng" ,BLAZE
@@ -762,16 +756,6 @@ http://92.114.85.80:8000/play/a01n
 http://92.114.85.80:8000/play/a01m
 #EXTINF:-1 audio-track="eng" ,Channel 7
 http://92.114.85.80:8000/play/a052
-#EXTINF:-1 audio-track="eng" ,ComedyCentral
-http://92.114.85.80:8000/play/a04b
-#EXTINF:-1 audio-track="eng" ,ComedyCentral
-http://92.114.85.80:8000/play/a044
-#EXTINF:-1 audio-track="eng" ,ComedyCent+1
-http://92.114.85.80:8000/play/a043
-#EXTINF:-1 audio-track="eng" ,ComedyXtra
-http://92.114.85.80:8000/play/a03y
-#EXTINF:-1 audio-track="eng" ,ComedyXtra
-http://92.114.85.80:8000/play/a046
 #EXTINF:-1 audio-track="eng" ,NHK World HD
 http://92.114.85.80:8000/play/a01c
 #EXTINF:-1 audio-track="eng" ,Sky Mix HD

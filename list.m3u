@@ -31,33 +31,33 @@ http://213.13.16.138/shls/LIVE%24SPORTTV_HD/index.m3u8?device=TVOS_Live&start=LI
 http://213.13.16.138/shls/LIVE%24Porto_Canal_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, RTP Açores
 http://213.13.16.138/shls/LIVE%24RTP_AC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sport TV1
+#EXTINF:0, channel-id="SPORT TV1 HD", Sport TV1
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sport TV2
+#EXTINF:0 channel-id="SPORT TV2 HD", Sport TV2
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sport TV3
+#EXTINF:0 channel-id="SPORT TV3 HD", Sport TV3
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sport TV4
+#EXTINF:0 channel-id="SPORT TV4 HD", Sport TV4
 http://213.13.16.138/shls/LIVE%24SPORTTVLive_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sport TV5
+#EXTINF:0 channel-id="SPORT TV5 HD", Sport TV5
 http://213.13.16.138/shls/LIVE%24SPORTTV_GOLFE_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sport TV6
+#EXTINF:0 channel-id="SPORT TV6 HD", Sport TV6
 http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, NBA TV
 http://213.13.16.138/shls/LIVE%24NBA_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, BTV
 http://213.13.16.138/shls/LIVE%24Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Eleven 1
+#EXTINF:0, channel-id="ELEVEN SPORTS 1", Eleven 1
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Eleven 2
+#EXTINF:0, channel-id="ELEVEN SPORTS 2", Eleven 2
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Eleven 3
+#EXTINF:0, channel-id="ELEVEN SPORTS 3", Eleven 3
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Eleven 4
+#EXTINF:0, channel-id="ELEVEN SPORTS 4", Eleven 4
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Eleven 5
+#EXTINF:0, channel-id="ELEVEN SPORTS 5", Eleven 5
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Eleven 6
+#EXTINF:0, channel-id="ELEVEN SPORTS 6", Eleven 6
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Sporting TV HD
 http://213.13.16.138/shls/LIVE%24Sporting_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END

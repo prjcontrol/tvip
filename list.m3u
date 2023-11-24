@@ -1,69 +1,69 @@
 #EXTM3U
-#EXTINF:0, tvg-id="RTP 1 HD", RTP1
+#EXTINF:0, RTP1
 http://213.13.16.138/shls/LIVE%24RTP1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="RTP 2 HD", RTP2
+#EXTINF:0, RTP2
 http://213.13.16.138/shls/LIVE%24RTP_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="SIC HD", SIC
+#EXTINF:0, SIC
 http://213.13.16.138/shls/LIVE%24SIC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="TVI HD", TVI
+#EXTINF:0, TVI
 http://213.13.16.138/shls/LIVE%24TVI_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="SIC Notícias HD", SIC Notícias
+#EXTINF:0, SIC Notícias
 http://213.13.16.138/shls/LIVE%24SIC_Noticias_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="RTP 3 HD", RTP3
+#EXTINF:0, RTP3
 http://213.13.16.138/shls/LIVE%24RTP_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="CNN Portugal HD", CNN Portugal
+#EXTINF:0, CNN Portugal
 http://213.13.16.138/shls/LIVE%24TVI24_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="CMTV HD", CMTV
+#EXTINF:0, CMTV
 http://213.13.16.138/shls/LIVE%24CMTVHD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="SIC Mulher HD", SIC Mulher
+#EXTINF:0, SIC Mulher
 http://213.13.16.138/shls/LIVE%24SIC_Mulher_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="Globo HD", Globo
+#EXTINF:0, Globo
 http://213.13.16.138/shls/LIVE%24Globo_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="Canal 11 HD", 11
+#EXTINF:0, 11
 http://213.13.16.138/shls/LIVE%24C11_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="TVI Ficção HD", TVI Ficção
+#EXTINF:0, TVI Ficção
 http://213.13.16.138/shls/LIVE%24TVIFI_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="A Bola TV HD", A Bola TV
+#EXTINF:0, A Bola TV
 http://213.13.16.138/shls/LIVE%24ABOLA_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="SPORT TV+ HD", Sport TV +
+#EXTINF:0, Sport TV +
 http://213.13.16.138/shls/LIVE%24SPORTTV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="Porto Canal HD", Porto Canal
+#EXTINF:0, Porto Canal
 http://213.13.16.138/shls/LIVE%24Porto_Canal_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="RTP Açores", RTP Açores
+#EXTINF:0, RTP Açores
 http://213.13.16.138/shls/LIVE%24RTP_AC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="SPORT TV1 HD", Sport TV1
+#EXTINF:0, Sport TV1
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="SPORT TV2 HD", Sport TV2
+#EXTINF:0, Sport TV2
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="SPORT TV3 HD", Sport TV3
+#EXTINF:0, Sport TV3
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="SPORT TV4 HD", Sport TV4
+#EXTINF:0, Sport TV4
 http://213.13.16.138/shls/LIVE%24SPORTTVLive_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="SPORT TV5 HD", Sport TV5
+#EXTINF:0, Sport TV5
 http://213.13.16.138/shls/LIVE%24SPORTTV_GOLFE_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="SPORT TV6 HD", Sport TV6
+#EXTINF:0, Sport TV6
 http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="NBA TV HD", NBA TV
+#EXTINF:0, NBA TV
 http://213.13.16.138/shls/LIVE%24NBA_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="BTV1 HD", BTV
+#EXTINF:0, BTV
 http://213.13.16.138/shls/LIVE%24Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="ELEVEN SPORTS 1", Eleven 1
+#EXTINF:0, Eleven 1
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="ELEVEN SPORTS 2", Eleven 2
+#EXTINF:0, Eleven 2
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="ELEVEN SPORTS 3", Eleven 3
+#EXTINF:0, Eleven 3
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="ELEVEN SPORTS 4", Eleven 4
+#EXTINF:0, Eleven 4
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="ELEVEN SPORTS 5", Eleven 5
+#EXTINF:0, Eleven 5
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="ELEVEN SPORTS 6", Eleven 6
+#EXTINF:0, Eleven 6
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="Sporting TV HD", Sporting TV HD
+#EXTINF:0, Sporting TV HD
 http://213.13.16.138/shls/LIVE%24Sporting_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="Eurosport 1 HD", Eurosport 1
+#EXTINF:0, Eurosport 1
 http://213.13.16.138/shls/LIVE%24Eurosport_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, tvg-id="Eurosport 2 HD", Eurosport 2
+#EXTINF:0, Eurosport 2
 http://213.13.16.138/shls/LIVE%24Eurosport_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Biggs
 http://213.13.16.138/shls/LIVE%24Panda_Biggs/index.m3u8?device=TVOS_Live&start=LIVE&end=END

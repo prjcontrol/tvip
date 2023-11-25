@@ -29,17 +29,17 @@ http://213.13.16.138/shls/LIVE%24ABOLA_HD/index.m3u8?device=TVOS_Live&start=LIVE
 http://213.13.16.138/shls/LIVE%24SPORTTV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Porto Canal
 http://213.13.16.138/shls/LIVE%24Porto_Canal_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, RTP Açores
+#EXTINF:0, tvg-id="RTP.AÇORES.HD.pt", RTP Açores
 http://213.13.16.138/shls/LIVE%24RTP_AC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sport TV1
+#EXTINF:0, tvg-id="SPORT.TV1.pt", Sport TV1
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sport TV2
+#EXTINF:0, tvg-id="SPORT.TV2.pt", Sport TV2
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sport TV3
+#EXTINF:0, tvg-id="SPORT.TV3.pt", Sport TV3
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sport TV4
+#EXTINF:0, tvg-id="SPORT.TV4.pt", Sport TV4
 http://213.13.16.138/shls/LIVE%24SPORTTVLive_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sport TV5
+#EXTINF:0, tvg-id="SPORT.TV5.pt", Sport TV5
 http://213.13.16.138/shls/LIVE%24SPORTTV_GOLFE_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, tvg-id="SPORT.TV6.pt", Sport TV6
 http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -59,13 +59,13 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Eleven 6
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sporting TV HD
+#EXTINF:0, tvg-id="SPORTING.TV.HD.pt", Sporting TV HD
 http://213.13.16.138/shls/LIVE%24Sporting_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Eurosport 1
+#EXTINF:0, tvg-id="EUROSPORT.1.HD.pt", Eurosport 1
 http://213.13.16.138/shls/LIVE%24Eurosport_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Eurosport 2
+#EXTINF:0, tvg-id="EUROSPORT.2.HD.pt", Eurosport 2
 http://213.13.16.138/shls/LIVE%24Eurosport_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Biggs
+#EXTINF:0, id="BIGGS.pt", Biggs
 http://213.13.16.138/shls/LIVE%24Panda_Biggs/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, SIC K
 http://213.13.16.138/shls/LIVE%24SIC_K_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END

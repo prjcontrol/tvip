@@ -65,19 +65,21 @@ http://213.13.16.138/shls/LIVE%24Sporting_TV_HD/index.m3u8?device=TVOS_Live&star
 http://213.13.16.138/shls/LIVE%24Eurosport_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, tvg-id="EUROSPORT.2.HD.pt", Eurosport 2
 http://213.13.16.138/shls/LIVE%24Eurosport_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, id="BIGGS.pt", Biggs
+#EXTINF:0, tvg- id="DISNEY.CHANNEL.pt", Disney Channel
+http://213.13.16.138/shls/LIVE%24Disney_Channel/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0, tvg-id="BIGGS.pt", Biggs
 http://213.13.16.138/shls/LIVE%24Panda_Biggs/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, SIC K
+#EXTINF:0, tvg-id="SIC.K.pt", SIC K
 http://213.13.16.138/shls/LIVE%24SIC_K_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Nickelodeon
+#EXTINF:0, tvg-id="NICKELODEON.pt", Nickelodeon
 http://213.13.16.138/shls/LIVE%24Nickelodeon/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Disney Junior
+#EXTINF:0, tvg-id="Disney.Junior.pt", Disney Junior
 http://213.13.16.138/shls/LIVE%24Disney_Junior_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Panda
+#EXTINF:0, tvg-id="PANDA.HD.pt", Panda
 http://213.13.16.138/shls/LIVE%24Panda_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Baby TV
+#EXTINF:0, tvg-id="BABY.TV.pt", Baby TV
 http://213.13.16.138/shls/LIVE%24Baby_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Lolly Kids
+#EXTINF:0, tvg-id="Lolly.kids.pt", Lolly Kids
 http://213.13.16.138/shls/LIVE%24Lolly_Kids_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, TVCine Top
 http://213.13.16.138/shls/LIVE%24TVCine_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -87,21 +89,21 @@ http://213.13.16.138/shls/LIVE%24TVCine_2_HD/index.m3u8?device=TVOS_Live&start=L
 http://213.13.16.138/shls/LIVE%24TVCine_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, TVCine Action
 http://213.13.16.138/shls/LIVE%24TVCine_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Cinemundo
+#EXTINF:0, tvg-id="CINEMUNDO.HD.pt", Cinemundo
 http://213.13.16.138/shls/LIVE%24Cinemundo_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Hollywood
 http://213.13.16.138/shls/LIVE%24Hollywood_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, FOX Movies
 http://213.13.16.138/shls/LIVE%24FOX_Movies_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, AMC
+#EXTINF:0, tvg-id="AMC.HD.pt", AMC
 http://213.13.16.138/shls/LIVE%24AMC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, AXN Movies HD
 http://213.13.16.138/shls/LIVE%24AXN_Black_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, MEO VideoClube
+#EXTINF:0, tvg-id="MEO.VIDEOCLUBE.HD.pt", MEO VideoClube
 http://213.13.16.138/shls/LIVE%24MEO_VideoClube_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, FOX
+#EXTINF:0, tvg-id="FOX.HD.pt", FOX
 http://213.13.16.138/shls/LIVE%24FOX_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, FOX Life
+#EXTINF:0, tvg-id="FOX.LIFE.HD.pt", FOX Life
 http://213.13.16.138/shls/LIVE%24FOX_Life_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, FOX Crime
 http://213.13.16.138/shls/LIVE%24FOX_Crime_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -111,29 +113,29 @@ http://213.13.16.138/shls/LIVE%24FOX_Comedy_HD/index.m3u8?device=TVOS_Live&start
 http://213.13.16.138/shls/LIVE%24AXN_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, AXN White HD
 http://213.13.16.138/shls/LIVE%24AXN_White_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, SyFy
+#EXTINF:0, tvg-id="SYFY.HD.pt", SyFy
 http://213.13.16.138/shls/LIVE%24SyFy_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Promo TVCine HD
 http://213.13.16.138/shls/LIVE%24TVSeries_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, MEO Destaques
+#EXTINF:0, tvg-id="MEO.DESTAQUES.HD.pt", MEO Destaques
 http://213.13.16.138/shls/LIVE%24MEO_Destaques_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Discovery Channel
+#EXTINF:0, tvg-id="DISCOVERY.CHANNEL.HD.pt", Discovery Channel
 http://213.13.16.138/shls/LIVE%24Discovery_Channel_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, História
+#EXTINF:0, tvg-id="CANAL.HISTÓRIA.HD.pt", História
 http://213.13.16.138/shls/LIVE%24Historia_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Odisseia
+#EXTINF:0, tvg-id="ODISSEIA.HD.pt", Odisseia
 http://213.13.16.138/shls/LIVE%24Odisseia_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, National Geographic
+#EXTINF:0, tvg-id="NATIONAL.GEOGRAPHIC.CHANNEL.HD.pt", National Geographic
 http://213.13.16.138/shls/LIVE%24National_Geographic_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, National Geographic Wild
+#EXTINF:0, tvg-id="National.Geographic.Wild.HD.pt", National Geographic Wild
 http://213.13.16.138/shls/LIVE%24Nat_Geo_Wild_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, RTP Memória
 http://213.13.16.138/shls/LIVE%24RTP_Memoria/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Q
+#EXTINF:0, tvg-id="Q.HD.pt", Q
 http://213.13.16.138/shls/LIVE%24Canal_Q_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, SIC Radical
 http://213.13.16.138/shls/LIVE%24SIC_Radical_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, MTV Portugal
+#EXTINF:0, tvg-id="MTV.Portugal.HD.pt", MTV Portugal
 http://213.13.16.138/shls/LIVE%24MTV_Portugal_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, AMC Break
 http://213.13.16.138/shls/LIVE%24Blaze_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -149,29 +151,29 @@ http://213.13.16.138/shls/LIVE%24TLC/index.m3u8?device=TVOS_Live&start=LIVE&end=
 http://213.13.16.138/shls/LIVE%24Galeria/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, SIC Caras
 http://213.13.16.138/shls/LIVE%24SIC_Caras_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, E! Entertainment
+#EXTINF:0, tvg-id="E!.ENTERTAINMENT.HD.pt", E! Entertainment
 http://213.13.16.138/shls/LIVE%24E_Entertainment_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, 24Kitchen
+#EXTINF:0, tvg-id="24.KITCHEN.pt", 24Kitchen
 http://213.13.16.138/shls/LIVE%2424Kitchen_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, FTV
+#EXTINF:0, tvg-id="FTV.HD.pt", FTV
 http://213.13.16.138/shls/LIVE%24FTV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, S+
 http://213.13.16.138/shls/LIVE%24Saude_Mais_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, MTV 00s
 http://213.13.16.138/shls/LIVE%24VH1/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, MTV Live
+#EXTINF:0, tvg-id="MTV.LIVE.HD.pt", MTV Live
 http://213.13.16.138/shls/LIVE%24MTV_Live_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Trace Urban
+#EXTINF:0, tvg-id="TRACE.URBAN.HD.pt", Trace Urban
 http://213.13.16.138/shls/LIVE%24Trace_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, MCM POP
 http://213.13.16.138/shls/LIVE%24MCM_POP/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, MCM Top
+#EXTINF:0, tvg-id="MCM.TOP.HD.pt", MCM Top
 http://213.13.16.138/shls/LIVE%24MCM_TOP_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Clubbing TV
+#EXTINF:0, tvg-id="CLUBBING.TV.HD.pt", Clubbing TV
 http://213.13.16.138/shls/LIVE%24Clubbing_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Afro Music
 http://213.13.16.138/shls/LIVE%24Afro_Music/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Trace Toca
+#EXTINF:0, tvg-id="TRACE.TOCA.HD.pt", Trace Toca
 http://213.13.16.138/shls/LIVE%24Trace_Toca_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Trace Brazuca
 http://213.13.16.138/shls/LIVE%24Trace_Brazuca_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -189,35 +191,35 @@ http://213.13.16.138/shls/LIVE%24iCONCERTS/index.m3u8?device=TVOS_Live&start=LIV
 http://213.13.16.138/shls/LIVE%24Stingray_Loud_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Stingray Retro
 http://213.13.16.138/shls/LIVE%24Stingray_Retro_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, RTP Açores
+#EXTINF:0, tvg-id="RTP.AÇORES.HD.pt", RTP Açores
 http://213.13.16.138/shls/LIVE%24RTP_AC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, ARTV
 http://213.13.16.138/shls/LIVE%24AR_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Localvisão TV
+#EXTINF:0, tvg-id="LOCALVISÃO.TV.HD.pt", Localvisão TV
 http://213.13.16.138/shls/LIVE%24Localvisao_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, MEO Kanal
 http://213.13.16.138/shls/LIVE%24MEO_Kanal/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Toros TV
+#EXTINF:0, tvg-id="TOROS.HD.pt", Toros TV
 http://213.13.16.138/shls/LIVE%24Toros_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Caça e Pesca
+#EXTINF:0, tvg-id="CAÇA.E.PESCA.HD.pt", Caça e Pesca
 http://213.13.16.138/shls/LIVE%24Caca_e_Pesca_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Caçavision
+#EXTINF:0, tvg-id="CAÇAVISION.HD.pt", Caçavision
 http://213.13.16.138/shls/LIVE%24Cacavision_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, CANAL 180
 http://213.13.16.138/shls/LIVE%24CANAL_180/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Kuriakos TV
+#EXTINF:0, tvg-id="Kuriakos.TV.HD.pt", Kuriakos TV
 http://213.13.16.138/shls/LIVE%24Kuriakos_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Canção Nova
+#EXTINF:0, tvg-id="CANÇÃO.NOVA.HD.pt", Canção Nova
 http://213.13.16.138/shls/LIVE%24Cancao_Nova_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, TV Verdade
+#EXTINF:0, tvg-id="TV.Verdade.pt", TV Verdade
 http://213.13.16.138/shls/LIVE%24TV_Verdade_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Dog TV
+#EXTINF:0, tvg-id="DOGTV.HD.pt", Dog TV
 http://213.13.16.138/shls/LIVE%24DOGTV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, PFC
 http://213.13.16.138/shls/LIVE%24PFC/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Globo News
 http://213.13.16.138/shls/LIVE%24Globo_Premium_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Record TV
+#EXTINF:0, tvg-id="RECORD.TV.HD.pt", Record TV
 http://213.13.16.138/shls/LIVE%24TV_Record_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Record News
 http://213.13.16.138/shls/LIVE%24Record_News/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -237,21 +239,21 @@ http://213.13.16.138/shls/LIVE%24Bloomberg/index.m3u8?device=TVOS_Live&start=LIV
 http://213.13.16.138/shls/LIVE%24Sky_News/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, BBC World News
 http://213.13.16.138/shls/LIVE%24BBC_World/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, BBC Entertainment
+#EXTINF:0, tvg-id="BBC.ENTERTAINMENT.pt", BBC Entertainment
 http://213.13.16.138/shls/LIVE%24BBC_Entertainment/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, France 24 (I)
 http://213.13.16.138/shls/LIVE%24France_24_I/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, NHK World Japan
+#EXTINF:0, tvg-id="NHK.WORLD.JAPAN.HD.pt", NHK World Japan
 http://213.13.16.138/shls/LIVE%24NHK_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, CGTN
+#EXTINF:0, tvg-id="CGTN.HD.pt", CGTN
 http://213.13.16.138/shls/LIVE%24CGTN_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, CGTN Documentary
+#EXTINF:0, tvg-id="CGTN-Documentary.pt", CGTN Documentary
 http://213.13.16.138/shls/LIVE%24CGTN_Documentary/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Euronews (I)
 http://213.13.16.138/shls/LIVE%24Euronews_ing_hd/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Deutsche Welle (I)
+#EXTINF:0, tvg-id="DEUTSCHE.WELLE.HD.pt", Deutsche Welle (I)
 http://213.13.16.138/shls/LIVE%24Deutsche_Welle_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Aljazeera
+#EXTINF:0, tvg-id="AL.JAZEERA.ENGLISH.HD.pt", Aljazeera
 http://213.13.16.138/shls/LIVE%24AlJazeera_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, TRT World
 http://213.13.16.138/shls/LIVE%24TRT_World_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -371,8 +373,6 @@ http://213.13.16.138/shls/LIVE%24Sporting_TV/index.m3u8?device=TVOS_Live&start=L
 http://213.13.16.138/shls/LIVE%24Eurosport/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Eurosport 2
 http://213.13.16.138/shls/LIVE%24Eurosport_2/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Disney Channel
-http://213.13.16.138/shls/LIVE%24Disney_Channel/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Cartoon Network
 http://213.13.16.138/shls/LIVE%24Cartoon_Network/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, SIC K

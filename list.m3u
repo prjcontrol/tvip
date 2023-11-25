@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:0, RTP1
+#EXTINF:0, RTP 1
 http://213.13.16.138/shls/LIVE%24RTP1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, RTP2
+#EXTINF:0, RTP 2
 http://213.13.16.138/shls/LIVE%24RTP_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, SIC
 http://213.13.16.138/shls/LIVE%24SIC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, TVI
 http://213.13.16.138/shls/LIVE%24TVI_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, SIC Notícias
+#EXTINF:0, tvg-id="SIC.NOTICIAS.pt", SIC Notícias
 http://213.13.16.138/shls/LIVE%24SIC_Noticias_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, RTP3
+#EXTINF:0, RTP 3
 http://213.13.16.138/shls/LIVE%24RTP_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, CNN Portugal
 http://213.13.16.138/shls/LIVE%24TVI24_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -19,7 +19,7 @@ http://213.13.16.138/shls/LIVE%24CMTVHD/index.m3u8?device=TVOS_Live&start=LIVE&e
 http://213.13.16.138/shls/LIVE%24SIC_Mulher_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Globo
 http://213.13.16.138/shls/LIVE%24Globo_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, 11
+#EXTINF:0, tvg-id="Canal.11.pt", 11
 http://213.13.16.138/shls/LIVE%24C11_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, TVI Ficção
 http://213.13.16.138/shls/LIVE%24TVIFI_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -41,7 +41,7 @@ http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=L
 http://213.13.16.138/shls/LIVE%24SPORTTVLive_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, Sport TV5
 http://213.13.16.138/shls/LIVE%24SPORTTV_GOLFE_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, Sport TV6
+#EXTINF:0, tvg-id="SPORT.TV6.pt", Sport TV6
 http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, NBA TV
 http://213.13.16.138/shls/LIVE%24NBA_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
